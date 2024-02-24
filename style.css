@@ -238,6 +238,7 @@
   padding: 0px 0px 20px 0px;
 }
 * body .wapper .card3 .hader3 h3 {
+  text-align: center;
   font-size: 40px;
   font-weight: 700;
 }
@@ -617,7 +618,7 @@
     font-size: 18px;
   }
   * body .wapper .card5 {
-    padding: 0px;
+    padding: 10px 0px;
   }
   * body .wapper .card5 .hader5 h3 {
     text-align: center;
@@ -643,7 +644,7 @@
   }
   * body .wapper .card6 form .top #t {
     margin: 0px;
-    padding: 0px;
+    padding: 0px 0px;
     width: 100%;
   }
   * body .wapper .card6 form .top #td {
@@ -658,16 +659,5 @@
   * body .wapper footer .card {
     padding: 10px 30px;
     flex-direction: column;
-  }
-}
-@media screen and (max-width: 1000px) {
-  * body .wapper .card1 .hader .nave {
-    display: none;
-  }
-  * body .wapper .card1 .hader .dropdown {
-    display: inline-block;
-  }
-  * body .wapper .card1 .hader .log {
-    display: none;
   }
 }/*# sourceMappingURL=style.css.map */
